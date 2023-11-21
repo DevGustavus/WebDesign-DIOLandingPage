@@ -1,11 +1,13 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+<h1 align="center">Desafio 01: Criando sua primeira Landing Page com HTML e CSS:</h1>
+
+## 📖 About the project
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+<img src="Doc/README_assets/design.png">
 
 Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
 Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
@@ -20,3 +22,31 @@ que você possa se basear.
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
+
+## 🦾 Technologies used
+<div style="display: flex;">
+  
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+</div>
+
+## 🤔 What i learned
+- I learned more about what i already know, but i could train more about UI/UX in this Bootcamp Challenge.
+
+## 👽 How to clone this project
+````bash
+    # Select where you want to clone
+    $ cd ~/Documents/WHERE_YOU_WANT
+````
+
+````bash
+    # Clone the project
+    $ git clone https://github.com/DevGustavus/REPOSITORY_NAME.git
+````
+
+````bash
+    # Check if cloning worked fine
+    $ cd ~/Documents/DIRECTORY_LOCATION
+    $ ls
+````
