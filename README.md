@@ -1,5 +1,8 @@
 <h1 align="center">Desafio 01: Criando sua primeira Landing Page com HTML e CSS:</h1>
 
+## 📲 View the project here
+<a href="https://devgustavus.github.io/WebDesign-DIOLandingPage/">https://devgustavus.github.io/WebDesign-DIOLandingPage/</a>
+
 ## 📖 About the project
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
